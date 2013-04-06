@@ -1,0 +1,4 @@
+graphic
+=======
+
+friendica infographic
