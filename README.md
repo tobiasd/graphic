@@ -1,7 +1,6 @@
 Friendica Infographic 
 =======
-
-Achtung: Diese Daten sind nicht mehr aktuell, da sich z.B. in der Lizenz von Friendica Änderungen ergeben haben. Es erfolgt eine Anpassung der Daten in nächster Zeit. Bei Fragen bitte eine Mail an friendica_presse@posteo.de schicken. Danke
+Stand: 15.10.2013 
 
 Diese Grafiken sollen helfen, die Funktionen von Friendica leichter zu verbreiten, um so neue Nutzer gewinnen zu können. Als Lizenz nutze ich Creative Commons (CC). Du kannst diese Grafik also gerne nutzen, weiterverbreiten und bearbeiten. :)
 
