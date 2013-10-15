@@ -1,6 +1,6 @@
 Friendica Infographic 
 =======
-Stand: 15.10.2013 
+Stand: 15.10.2013
 
 Diese Grafiken sollen helfen, die Funktionen von Friendica leichter zu verbreiten, um so neue Nutzer gewinnen zu können. Als Lizenz nutze ich Creative Commons (CC). Du kannst diese Grafik also gerne nutzen, weiterverbreiten und bearbeiten. :)
 
